@@ -6,7 +6,8 @@ const Session = require('./session.js');
 const Controller = require('./app/controller.js');
 const userManager = new UserManager(fs);
 const session = new Session();
-const port = 3000;
+// const port = 3000;
+const port = process.env.PORT;
 const httpStatusCode = {
     'OK': 200,
     'MOVED PERMANENTLY': 301,

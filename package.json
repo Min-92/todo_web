@@ -1,6 +1,10 @@
 {
+  "engines": {
+    "node": "v8.10.0",
+    "npm": ":6.9.2"
+  },
   "scripts": {
-    "start": "nodejs server_main.js",
+    "start": "node server_main.js",
     "test": "mocha"
   },
   "name": "todo_web",
