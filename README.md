@@ -24,12 +24,12 @@ Node.js HTTP 모듈을 사용해서 web Todo 앱을 만든다.
 
 ### 제약조건
 
-- Express를 사용하지 않는다.
+- Express.js 를 사용하지 않는다.
 - DataBase를 사용하지 않는다.
 
 ### 목적
 
-Express 와 DataBase 를 사용하지 않고 구현 함으로써 HTTP를 학습하고 Express와 DataBase가 하는 역할을 학습한다.
+Express.js 와 DataBase 를 사용하지 않고 구현 함으로써 HTTP를 학습하고 Express와 DataBase가 하는 역할을 학습한다.
 
 
 
